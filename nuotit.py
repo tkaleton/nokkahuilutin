@@ -1,4 +1,4 @@
-Class Nuotit:
+class Nuotit:
     Q = 0x10
     W = 0x11
     E = 0x12
