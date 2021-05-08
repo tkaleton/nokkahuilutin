@@ -14,4 +14,10 @@ Soita lisää
 Tulee lisää kirjaimia
 rinse ja repeat kunnes tekstisi on valmis
 
+Asennus:
+1. Asenna python jutsukat in requirements
+2. aja nauhoitin.py
 
+Voit vaihtaa kirjoitusmooduulin ja pelimoduulin välillä nauhoitin.py jutsukasta
+
+Python 3.8+ & 3.7+
