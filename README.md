@@ -16,7 +16,8 @@ rinse ja repeat kunnes tekstisi on valmis
 
 Asennus:
 1. Asenna python jutsukat in requirements
-2. aja nauhoitin.py
+2. aja nauhoitin.py ja laita urut solmuu
+3. Poistu ctrl + C komennolla
 
 Voit vaihtaa kirjoitusmooduulin ja pelimoduulin välillä nauhoitin.py jutsukasta
 
