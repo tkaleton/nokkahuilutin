@@ -1,0 +1,4 @@
+numpy
+pyaudio #https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+pyautogui
+pynput
